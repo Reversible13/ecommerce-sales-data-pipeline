@@ -38,7 +38,7 @@ Pipeline ini mampu mengekstrak wawasan strategis seperti:
 
 # Repository Structure
 ```text
-├── Dataset/                         # Folder data mentah (Excel files)
+├── Dataset Tugas Data Science M2    # Folder data mentah (Excel files)
 ├── sales_data_pipeline.ipynb        # Main Notebook (Logika ETL & Analisis)
 ├── README.md                        # Dokumentasi Proyek
 └── sales_data_cleaned_final.xlsx    # Output Data Bersih
