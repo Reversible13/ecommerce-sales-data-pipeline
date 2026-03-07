@@ -1,5 +1,11 @@
 # E-Commerce Sales Data Pipeline: Automated ETL & Market Insights
 
+# 🤝 Contributors
+Proyek ini dikerjakan secara kolaboratif oleh:
+* **Muhammad Maulana Rosyid** - (*ETL Pipeline Development*)
+* **Rifat Qoyyim Sidik** - (*Data Cleaning Specialist*)
+* **Prianto Sanema Wau** - (*Business Insight Analysis*)
+
 # Project Overview
 Proyek ini merupakan bagian dari **Tugas Magang Modul 2 - Data Science**. Fokus utama proyek ini adalah membangun sebuah **Automated Data Pipeline (ETL)** yang mampu menangani puluhan laporan penjualan e-commerce dalam format Excel (.xlsx) yang memiliki struktur kolom tidak konsisten. 
 
